@@ -18,8 +18,8 @@ it provided by Udacity and it is resposible for all animation and other styles t
 
 
 ## [Programming Langauges that used]
- 1- html
- 2- CSS
- 3- JavaScript
+ - HTML
+ - CSS
+ - JavaScript
 
 
